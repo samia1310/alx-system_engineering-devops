@@ -1,0 +1,2 @@
+#!/bin/bach
+find . -type d -path './*' -print | wc -1
